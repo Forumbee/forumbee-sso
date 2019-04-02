@@ -30,7 +30,6 @@ namespace Forumbee
                 key     = "test1",
                 email   = "test@example.com",
                 name    = "test user",
-                avatar  = "https://secure.gravatar.com/avatar/849853effb2c1143c8f65e3fe41e6714",
                 domain  = "your-subdomain",
                 secret  = "your-secret-key"
             };
